@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CM_to_Feet_and_Inches {
+public class CmToFeetAndInches {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double centimeters = sc.nextDouble();

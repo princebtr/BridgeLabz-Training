@@ -1,4 +1,4 @@
-public class Volume_of_earth {
+public class VolumeOfEarth {
     public static void main(String[] args) {
         double radius = 6378; // in kilometers
 

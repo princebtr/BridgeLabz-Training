@@ -1,5 +1,5 @@
 import java.util.*;
-public class power {
+public class Power {
     public static int power(int base, int exponent) {
         if (exponent == 0) {
             return 1;

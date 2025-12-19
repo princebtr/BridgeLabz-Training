@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class area_of_cylinder {
+public class AreaOfCylinder {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double r = sc.nextDouble();

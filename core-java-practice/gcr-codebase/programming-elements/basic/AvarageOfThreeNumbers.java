@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class avarage_of_three_numbers {
+public class AvarageOfThreeNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double a = sc.nextDouble();
