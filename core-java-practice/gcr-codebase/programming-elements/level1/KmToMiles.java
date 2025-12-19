@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class kilometers_to_miles {
+public class KmToMiles {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double km = 10.8;
