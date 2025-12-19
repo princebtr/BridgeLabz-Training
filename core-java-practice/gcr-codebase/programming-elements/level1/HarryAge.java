@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class harry_age {
+public class HarryAge {
     public static void main(String[] args) {
         int dob = 2000;
         int age = 2024 - dob;
