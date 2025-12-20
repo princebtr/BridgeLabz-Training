@@ -1,13 +1,6 @@
-# 📘 Daily Progress Log – BridgeLabz Training
+# 🚀 Daily Progress Log – BridgeLabz Training
 
-**Training ID:** 2215001318
-
-This repository documents the **day-wise progress** of tasks completed during the **BridgeLabz Training Program** (ID: 2215001318), as recorded in the repository’s README.
-
----
-
-# 🚀 Tasks
-
+This repository documents the **day-wise progress** of tasks completed during the **BridgeLabz Training Program** , as recorded in the repository’s README.
 Tasks are grouped by week with thematic headings, detailing the work done on each date and day.
 
 ## 🗓 Week 1: Git, GitHub & Core Java Fundamentals
@@ -94,3 +87,4 @@ BridgeLabz-Training/
 - Practical implementation of Programming Elements, Control Flow & Arrays
 - Maintained clean, structured, and professional repository organization
 ```
+
