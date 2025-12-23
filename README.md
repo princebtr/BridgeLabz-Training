@@ -61,6 +61,14 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Went through a weekly review session with my mentor
 ```
 
+#### 📅 23-Dec-2025 (Tuesday)
+
+```
+- Implemented String and Exception handling in Core Java
+- Practiced String methods and Exception handling
+- Solved few scenerio based questions
+```
+
 ---
 
 # 📂 Folder Structure
