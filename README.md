@@ -50,6 +50,17 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Solved Few Scenerio Based problem based on real life
 ```
 
+## 🗓 Week 2: Core Java Fundamentals
+
+#### 📅 22-Dec-2025 (Monday)
+
+```
+- Implemented String and its methods in Core Java
+- Practiced String operations and various important methods
+- Solved Level 1, Level 2, and Level 3 problems related to Strings
+- Went through a weekly review session with my mentor
+```
+
 ---
 
 # 📂 Folder Structure
@@ -67,6 +78,8 @@ BridgeLabz-Training/
 |   |   +-- control-flow/
 |   |   |
 |   |   +-- arrays/
+|   |   |
+|   |   +-- strings/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -84,7 +97,6 @@ BridgeLabz-Training/
 - Clear understanding of Git & GitHub workflows
 - Hands-on experience with branch-based development
 - Strong foundation in Core Java basics
-- Practical implementation of Programming Elements, Control Flow & Arrays
+- Practical implementation of Programming Elements, Control Flow, Strings & Arrays
 - Maintained clean, structured, and professional repository organization
 ```
-
