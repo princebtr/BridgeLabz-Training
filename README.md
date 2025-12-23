@@ -78,6 +78,8 @@ BridgeLabz-Training/
 |   |   +-- control-flow/
 |   |   |
 |   |   +-- arrays/
+|   |   |
+|   |   +-- strings/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -95,6 +97,6 @@ BridgeLabz-Training/
 - Clear understanding of Git & GitHub workflows
 - Hands-on experience with branch-based development
 - Strong foundation in Core Java basics
-- Practical implementation of Programming Elements, Control Flow & Arrays
+- Practical implementation of Programming Elements, Control Flow, Strings & Arrays
 - Maintained clean, structured, and professional repository organization
 ```
