@@ -12,7 +12,9 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Learned basic Git commands: git add, git commit, git push
 - Understood version control concepts and branch-based workflow
 - Solved basic Java problems on LeetCode to strengthen logic
+Link to the solutions:- 
 ```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 #### 📅 17-Dec-2025 (Wednesday)
 
@@ -22,7 +24,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Improved understanding of commits and branch-wise pushes
 - Solved Programming Elements problems using Core Java basics
 ```
-
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 #### 📅 18-Dec-2025 (Thrusday)
 
 ```
@@ -31,7 +33,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Solved Level 1 Programming Elements problems
 - Worked on Level 2 problems involving operators and logical expressions
 ```
-
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 #### 📅 19-Dec-2025 (Friday)
 
 ```
@@ -40,7 +42,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Improved decision-making and logical thinking through programs
 - Solved Level 1, Level 2 and Level 3 of Control Flow
 ```
-
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 #### 📅 20-Dec-2025 (Saturday)
 
 ```
@@ -49,7 +51,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Solved Level 1, Level 2 of Arrays
 - Solved Few Scenerio Based problem based on real life
 ```
-
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 ## 🗓 Week 2: Core Java Fundamentals
 
 #### 📅 22-Dec-2025 (Monday)
@@ -60,7 +62,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Solved Level 1, Level 2, and Level 3 problems related to Strings
 - Went through a weekly review session with my mentor
 ```
-
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 #### 📅 23-Dec-2025 (Tuesday)
 
 ```
@@ -68,8 +70,25 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Practiced String methods and Exception handling
 - Solved few scenerio based questions
 ```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
----
+#### 📅 24-Dec-2025 (Wednesday)
+
+```
+- Implemented Methods and various Math functions in Core Java
+- Practiced methods and various Math Functions
+- Solved method based questions
+```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+#### 📅 26-Dec-2025 (Friday)
+
+```
+- Practiced extra questions on String methods handling
+- Solved few scenerio base questions
+```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
 
 # 📂 Folder Structure
 
@@ -80,10 +99,11 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 ├── 📁 core-java-practice/
 │   │
 │   ├── 📁 gcr-codebase/
-│   │   ├──🧠 programming-elements/
-│   │   ├──🧠 control-flow/
-│   │   ├──🧠 arrays/
-|   |   └──🧠 strings/
+│   │   ├──💻 programming-elements/
+│   │   ├──💻 control-flow/
+│   │   ├──💻 arrays/
+|   |   └──💻 strings/
+|   |   └──💻 methods/
 │   │
 │   ├── 📁 leet-code-codebase/
 │   │
@@ -104,3 +124,4 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Practical implementation of Programming Elements, Control Flow, Strings & Arrays
 - Maintained clean, structured, and professional repository organization
 ```
+
