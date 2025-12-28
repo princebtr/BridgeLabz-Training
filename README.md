@@ -3,6 +3,30 @@
 This repository documents the **day-wise progress** of tasks completed during the **BridgeLabz Training Program** , as recorded in the repository’s README.
 Tasks are grouped by week with thematic headings, detailing the work done on each date and day.
 
+# 📂 Folder Structure
+
+```text
+
+📂 BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │   ├──💻 programming-elements/
+│   │   ├──💻 control-flow/
+│   │   ├──💻 arrays/
+|   |   └──💻 strings/
+|   |   └──💻 methods/
+|   |   └──💻 built-in-functions/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   │
+│   └── 📁 scenario-based/
+│
+└── 📄README.md
+
+```
+
 ## 🗓 Week 1: Git, GitHub & Core Java Fundamentals
 
 #### 📅 16-Dec-2025 (Tuesday)
@@ -84,44 +108,22 @@ Link to the solutions:-
 #### 📅 26-Dec-2025 (Friday)
 
 ```
-- Practiced extra questions on String methods handling
-- Solved few scenerio base questions
+- Practiced additional questions on Strings and method handling and Build-in Functions
+- Solved multiple scenario-based programming problems
+- Strengthened problem-solving and logical skills
+- Revised previously learned Core Java concepts and Built-In Functions
 ```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
-
-
-# 📂 Folder Structure
-
-```text
-
-📂 BridgeLabz-Training/
-│
-├── 📁 core-java-practice/
-│   │
-│   ├── 📁 gcr-codebase/
-│   │   ├──💻 programming-elements/
-│   │   ├──💻 control-flow/
-│   │   ├──💻 arrays/
-|   |   └──💻 strings/
-|   |   └──💻 methods/
-│   │
-│   ├── 📁 leet-code-codebase/
-│   │
-│   └── 📁 scenario-based/
-│
-└── 📄README.md
-
-```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)
 
 ---
 
 # 🎯 Learning Outcomes
 
 ```
-- Clear understanding of Git & GitHub workflows
-- Hands-on experience with branch-based development
-- Strong foundation in Core Java basics
-- Practical implementation of Programming Elements, Control Flow, Strings & Arrays
-- Maintained clean, structured, and professional repository organization
+- Developed a clear understanding of Git and GitHub workflows
+- Gained hands-on experience with branch-based development
+- Built a strong foundation in Core Java fundamentals
+- Maintained a clean, structured, and professional repository
 ```
+
 
