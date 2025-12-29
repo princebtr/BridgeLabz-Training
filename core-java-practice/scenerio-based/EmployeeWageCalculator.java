@@ -31,9 +31,9 @@ public class EmployeeWageCalculator {
 	public static void employee() {
 		int emp = (int)(Math.random()*2);
 		switch(emp) {
-		case(1): wagePerDay();
+		case(0): wagePerDay();
 				break;
-		case(2): partTimeWage();
+		case(1): partTimeWage();
 				break;
 		}
 	}
