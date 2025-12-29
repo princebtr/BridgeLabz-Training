@@ -23,6 +23,16 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 │   │
 │   └── 📁 scenario-based/
 │
+├── 📁 oops-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   │
+│   └── 📁 scenario-based/
+│
+├── 📁 reviews/
+│
 └── 📄README.md
 
 ```
@@ -114,6 +124,16 @@ Link to the solutions:-
 - Revised previously learned Core Java concepts and Built-In Functions
 ```
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)
+## 🗓 Week 3: Core Java Fundamentals & OOPs
+
+#### 📅 29-Dec-2025 (Monday)
+
+```
+- Practiced additional scenerio-based questions
+- Learned various methods of string
+- Strengthened problem-solving and logical skills
+```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
 ---
 
@@ -125,5 +145,6 @@ Link to the solutions:-
 - Built a strong foundation in Core Java fundamentals
 - Maintained a clean, structured, and professional repository
 ```
+
 
 
