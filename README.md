@@ -26,6 +26,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 ├── 📁 oops-practice/
 │   │
 │   ├── 📁 gcr-codebase/
+│   │   ├──💻 class-and-object/
 │   │
 │   ├── 📁 leet-code-codebase/
 │   │
@@ -135,7 +136,15 @@ Link to the solutions:-
 ```
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
----
+#### 📅 30-Dec-2025 (Tuesday)
+
+```
+- Practiced additional scenerio-based questions
+- Learned class and objects in OOPs
+- Solved few problems based on class and objects
+```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
+
 
 # 🎯 Learning Outcomes
 
@@ -145,6 +154,7 @@ Link to the solutions:-
 - Built a strong foundation in Core Java fundamentals
 - Maintained a clean, structured, and professional repository
 ```
+
 
 
 
