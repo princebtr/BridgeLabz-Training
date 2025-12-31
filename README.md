@@ -27,6 +27,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 │   │
 │   ├── 📁 gcr-codebase/
 │   │   ├──💻 class-and-object/
+|   |   └──💻 constructor-and-access-modifier/
 │   │
 │   ├── 📁 leet-code-codebase/
 │   │
@@ -145,6 +146,14 @@ Link to the solutions:-
 ```
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
+#### 📅 31-Dec-2025 (Wednesday)
+
+```
+- Implemented Constructor, Access Modifier and Inheritence and OOPS
+- Solved problems based on Constructor, Access Modifier and Inheritence
+- Strengthened problem-solving and logical skills
+```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-and-access-modifier)
 
 # 🎯 Learning Outcomes
 
@@ -154,6 +163,7 @@ Link to the solutions:-
 - Built a strong foundation in Core Java fundamentals
 - Maintained a clean, structured, and professional repository
 ```
+
 
 
 
