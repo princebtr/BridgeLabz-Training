@@ -26,6 +26,7 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 ├── 📁 oops-practice/
 │   │
 │   ├── 📁 gcr-codebase/
+│   │   ├──💻 class-and-object/
 │   │
 │   ├── 📁 leet-code-codebase/
 │   │
@@ -46,8 +47,9 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 - Learned basic Git commands: git add, git commit, git push
 - Understood version control concepts and branch-based workflow
 - Solved basic Java problems on LeetCode to strengthen logic
-Link to the solutions:- 
+Link to the solutions:-
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 #### 📅 17-Dec-2025 (Wednesday)
@@ -58,7 +60,9 @@ Link to the solutions:-
 - Improved understanding of commits and branch-wise pushes
 - Solved Programming Elements problems using Core Java basics
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
 #### 📅 18-Dec-2025 (Thrusday)
 
 ```
@@ -67,7 +71,9 @@ Link to the solutions:-
 - Solved Level 1 Programming Elements problems
 - Worked on Level 2 problems involving operators and logical expressions
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
 #### 📅 19-Dec-2025 (Friday)
 
 ```
@@ -76,7 +82,9 @@ Link to the solutions:-
 - Improved decision-making and logical thinking through programs
 - Solved Level 1, Level 2 and Level 3 of Control Flow
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
 #### 📅 20-Dec-2025 (Saturday)
 
 ```
@@ -85,7 +93,9 @@ Link to the solutions:-
 - Solved Level 1, Level 2 of Arrays
 - Solved Few Scenerio Based problem based on real life
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
 ## 🗓 Week 2: Core Java Fundamentals
 
 #### 📅 22-Dec-2025 (Monday)
@@ -96,7 +106,9 @@ Link to the solutions:-
 - Solved Level 1, Level 2, and Level 3 problems related to Strings
 - Went through a weekly review session with my mentor
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
 #### 📅 23-Dec-2025 (Tuesday)
 
 ```
@@ -104,6 +116,7 @@ Link to the solutions:-
 - Practiced String methods and Exception handling
 - Solved few scenerio based questions
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
 #### 📅 24-Dec-2025 (Wednesday)
@@ -113,6 +126,7 @@ Link to the solutions:-
 - Practiced methods and various Math Functions
 - Solved method based questions
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 #### 📅 26-Dec-2025 (Friday)
@@ -123,7 +137,9 @@ Link to the solutions:-
 - Strengthened problem-solving and logical skills
 - Revised previously learned Core Java concepts and Built-In Functions
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)
+
 ## 🗓 Week 3: Core Java Fundamentals & OOPs
 
 #### 📅 29-Dec-2025 (Monday)
@@ -133,9 +149,18 @@ Link to the solutions:-
 - Learned various methods of string
 - Strengthened problem-solving and logical skills
 ```
+
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
----
+#### 📅 30-Dec-2025 (Tuesday)
+
+```
+- Practiced additional scenerio-based questions
+- Learned class and objects in OOPs
+- Solved few problems based on class and objects
+```
+
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
 # 🎯 Learning Outcomes
 
@@ -145,6 +170,3 @@ Link to the solutions:-
 - Built a strong foundation in Core Java fundamentals
 - Maintained a clean, structured, and professional repository
 ```
-
-
-
