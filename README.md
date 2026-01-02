@@ -27,6 +27,8 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 │   │
 │   ├── 📁 gcr-codebase/
 │   │   ├──💻 class-and-object/
+│   │   ├──💻 keyword-and-instance-of-object/
+│   │   ├──💻 object-modelling/
 |   |   └──💻 constructor-and-access-modifier/
 │   │
 │   ├── 📁 leet-code-codebase/
@@ -149,11 +151,29 @@ Link to the solutions:-
 #### 📅 31-Dec-2025 (Wednesday)
 
 ```
-- Implemented Constructor, Access Modifier and Inheritence and OOPS
+- Implemented Constructor, Access Modifier and Inheritence in OOPS
 - Solved problems based on Constructor, Access Modifier and Inheritence
 - Strengthened problem-solving and logical skills
 ```
 [Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-and-access-modifier)
+
+#### 📅 01-Jan-2026 (Thrusday)
+
+```
+- Implemented Keywords, Instance of and Strings
+- Solved problems based on Keywords, Instance of, Strings and few scenerio based
+- Strengthened problem-solving and logical skills
+```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keyword-and-instance-of-object)
+
+#### 📅 02-Jan-2026 (Friday)
+
+```
+- Learned to draw class, object and sequence diagram 
+- Solved problems based on object modelling
+- Strengthened problem-solving and logical skills
+```
+[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modelling)
 
 # 🎯 Learning Outcomes
 
@@ -163,6 +183,7 @@ Link to the solutions:-
 - Built a strong foundation in Core Java fundamentals
 - Maintained a clean, structured, and professional repository
 ```
+
 
 
 
