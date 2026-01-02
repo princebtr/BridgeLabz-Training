@@ -1,23 +1,21 @@
 # 🚀 Daily Progress Log – BridgeLabz Training
 
-This repository documents the **day-wise progress** of tasks completed during the **BridgeLabz Training Program** , as recorded in the repository’s README.
-Tasks are grouped by week with thematic headings, detailing the work done on each date and day.
+This repository documents the **day-wise progress** of tasks completed during the **BridgeLabz Training Program**. Tasks are organized by week with thematic headings, detailing the work accomplished on each date.
 
-# 📂 Folder Structure
+## 📂 Folder Structure
 
 ```text
-
 📂 BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
 │   │
 │   ├── 📁 gcr-codebase/
-│   │   ├──💻 programming-elements/
-│   │   ├──💻 control-flow/
-│   │   ├──💻 arrays/
-|   |   └──💻 strings/
-|   |   └──💻 methods/
-|   |   └──💻 built-in-functions/
+│   │   ├── 💻 programming-elements/
+│   │   ├── 💻 control-flow/
+│   │   ├── 💻 arrays/
+│   │   ├── 💻 strings/
+│   │   ├── 💻 methods/
+│   │   └── 💻 built-in-functions/
 │   │
 │   ├── 📁 leet-code-codebase/
 │   │
@@ -26,10 +24,10 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 ├── 📁 oops-practice/
 │   │
 │   ├── 📁 gcr-codebase/
-│   │   ├──💻 class-and-object/
-│   │   ├──💻 keyword-and-instance-of-object/
-│   │   ├──💻 object-modelling/
-|   |   └──💻 constructor-and-access-modifier/
+│   │   ├── 💻 class-and-object/
+│   │   ├── 💻 keyword-and-instance-of-object/
+│   │   ├── 💻 object-modelling/
+│   │   └── 💻 constructor-and-access-modifier/
 │   │
 │   ├── 📁 leet-code-codebase/
 │   │
@@ -37,155 +35,203 @@ Tasks are grouped by week with thematic headings, detailing the work done on eac
 │
 ├── 📁 reviews/
 │
-└── 📄README.md
-
+└── 📄 README.md
 ```
+
+---
 
 ## 🗓 Week 1: Git, GitHub & Core Java Fundamentals
 
-#### 📅 16-Dec-2025 (Tuesday)
+### 📅 16-Dec-2024 (Monday)
 
-```
-- Created GitHub repository and connected it with VS Code
-- Learned basic Git commands: git add, git commit, git push
-- Understood version control concepts and branch-based workflow
-- Solved basic Java problems on LeetCode to strengthen logic
-Link to the solutions:- 
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+**Version Control & Problem Solving Foundations**
+- Successfully set up GitHub repository and integrated it with VS Code for streamlined development
+- Mastered fundamental Git commands including `git add`, `git commit`, and `git push`
+- Explored version control concepts and implemented branch-based workflow strategies
+- Solved foundational Java problems on LeetCode to strengthen algorithmic thinking and logical reasoning
 
-#### 📅 17-Dec-2025 (Wednesday)
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
-```
-- Practiced Git Bash commands and complete Git workflow
-- Used git status to track file changes
-- Improved understanding of commits and branch-wise pushes
-- Solved Programming Elements problems using Core Java basics
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
-#### 📅 18-Dec-2025 (Thrusday)
+---
 
-```
-- Organized repository structure into Level 1, Level 2, and Control Flow folders
-- Practiced clean commits and proper folder hierarchy
-- Solved Level 1 Programming Elements problems
-- Worked on Level 2 problems involving operators and logical expressions
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
-#### 📅 19-Dec-2025 (Friday)
+### 📅 17-Dec-2024 (Tuesday)
 
-```
-- Implemented Control Flow Statements in Core Java
-- Practiced: if–else, switch–case, for loop, while loop, do–while loop Problems
-- Improved decision-making and logical thinking through programs
-- Solved Level 1, Level 2 and Level 3 of Control Flow
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
-#### 📅 20-Dec-2025 (Saturday)
+**Git Workflow Mastery & Programming Elements**
+- Deepened understanding of Git Bash commands and complete version control workflow
+- Utilized `git status` for effective change tracking and repository management
+- Enhanced proficiency in creating meaningful commits and managing branch-wise pushes
+- Implemented solutions for Programming Elements problems using Core Java fundamentals
 
-```
-- Implemented Arrays and 2D Arrays in Core Java
-- Practiced: Arrays, Multi-Dimensional Arrays & Scenerio Based Problems
-- Solved Level 1, Level 2 of Arrays
-- Solved Few Scenerio Based problem based on real life
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
-## 🗓 Week 2: Core Java Fundamentals
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
-#### 📅 22-Dec-2025 (Monday)
+---
 
-```
-- Implemented String and its methods in Core Java
-- Practiced String operations and various important methods
-- Solved Level 1, Level 2, and Level 3 problems related to Strings
-- Went through a weekly review session with my mentor
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
-#### 📅 23-Dec-2025 (Tuesday)
+### 📅 18-Dec-2024 (Wednesday)
 
-```
-- Implemented String and Exception handling in Core Java
-- Practiced String methods and Exception handling
-- Solved few scenerio based questions
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
+**Repository Architecture & Advanced Problem Solving**
+- Designed and implemented organized repository structure with Level 1, Level 2, and Control Flow directories
+- Practiced clean commit hygiene and established proper folder hierarchy for maintainability
+- Completed Level 1 Programming Elements challenges focusing on basic input/output operations
+- Advanced to Level 2 problems involving operators, expressions, and logical constructs
 
-#### 📅 24-Dec-2025 (Wednesday)
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
-```
-- Implemented Methods and various Math functions in Core Java
-- Practiced methods and various Math Functions
-- Solved method based questions
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+---
 
-#### 📅 26-Dec-2025 (Friday)
+### 📅 19-Dec-2024 (Thursday)
 
-```
-- Practiced additional questions on Strings and method handling and Build-in Functions
-- Solved multiple scenario-based programming problems
-- Strengthened problem-solving and logical skills
-- Revised previously learned Core Java concepts and Built-In Functions
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)
-## 🗓 Week 3: Core Java Fundamentals & OOPs
+**Control Flow Statements Implementation**
+- Mastered Control Flow Statements in Core Java through hands-on practice
+- Implemented conditional logic using `if-else` and `switch-case` statements
+- Developed iterative solutions using `for`, `while`, and `do-while` loops
+- Enhanced decision-making capabilities by solving Level 1, Level 2, and Level 3 Control Flow problems
 
-#### 📅 29-Dec-2025 (Monday)
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
-```
-- Practiced additional scenerio-based questions
-- Learned various methods of string
-- Strengthened problem-solving and logical skills
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
+---
 
-#### 📅 30-Dec-2025 (Tuesday)
+### 📅 20-Dec-2024 (Friday)
 
-```
-- Practiced additional scenerio-based questions
-- Learned class and objects in OOPs
-- Solved few problems based on class and objects
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
+**Arrays & Multi-Dimensional Data Structures**
+- Explored Arrays and 2D Arrays concepts in Core Java with practical implementations
+- Solved problems involving single and multi-dimensional array manipulations
+- Completed Level 1 and Level 2 array-based challenges
+- Applied array concepts to real-world scenario-based problems
 
-#### 📅 31-Dec-2025 (Wednesday)
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
-```
-- Implemented Constructor, Access Modifier and Inheritence in OOPS
-- Solved problems based on Constructor, Access Modifier and Inheritence
-- Strengthened problem-solving and logical skills
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-and-access-modifier)
+---
 
-#### 📅 01-Jan-2026 (Thrusday)
+## 🗓 Week 2: Advanced Core Java Concepts
 
-```
-- Implemented Keywords, Instance of and Strings
-- Solved problems based on Keywords, Instance of, Strings and few scenerio based
-- Strengthened problem-solving and logical skills
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keyword-and-instance-of-object)
+### 📅 23-Dec-2024 (Monday)
 
-#### 📅 02-Jan-2026 (Friday)
+**String Manipulation & Weekly Review**
+- Mastered String class and its extensive collection of methods in Core Java
+- Practiced string operations including concatenation, substring extraction, and pattern matching
+- Solved Level 1, Level 2, and Level 3 problems focused on string manipulation techniques
+- Participated in comprehensive weekly review session with mentor for feedback and improvement
 
-```
-- Learned to draw class, object and sequence diagram 
-- Solved problems based on object modelling
-- Strengthened problem-solving and logical skills
-```
-[Link to Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modelling)
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
-# 🎯 Learning Outcomes
+---
 
-```
-- Developed a clear understanding of Git and GitHub workflows
-- Gained hands-on experience with branch-based development
-- Built a strong foundation in Core Java fundamentals
-- Maintained a clean, structured, and professional repository
-```
+### 📅 24-Dec-2024 (Tuesday)
+
+**Exception Handling & Scenario-Based Problem Solving**
+- Implemented robust String operations and Exception handling mechanisms in Core Java
+- Practiced try-catch blocks and custom exception creation for error management
+- Solved multiple scenario-based questions simulating real-world programming challenges
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
+
+---
+
+### 📅 25-Dec-2024 (Wednesday)
+
+**Methods & Mathematical Functions**
+- Explored method creation, overloading, and parameter passing in Core Java
+- Practiced various Math class functions for numerical computations
+- Solved method-based problems emphasizing code reusability and modular programming
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+---
+
+### 📅 27-Dec-2024 (Friday)
+
+**Built-In Functions & Concept Consolidation**
+- Tackled additional problems on Strings and method handling for deeper understanding
+- Explored Java's built-in functions and their practical applications
+- Solved multiple scenario-based programming problems to strengthen analytical skills
+- Conducted comprehensive revision of Core Java concepts learned throughout the week
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)
+
+---
+
+## 🗓 Week 3: Object-Oriented Programming Principles
+
+### 📅 30-Dec-2024 (Monday)
+
+**Advanced String Operations & Scenario Analysis**
+- Solved complex scenario-based questions requiring integrated problem-solving approaches
+- Deepened knowledge of String methods including searching, replacing, and formatting
+- Strengthened analytical and logical reasoning skills through challenging problems
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
+
+---
+
+### 📅 31-Dec-2024 (Tuesday)
+
+**Introduction to Object-Oriented Programming**
+- Learned fundamental OOP concepts including Classes and Objects
+- Practiced creating and manipulating objects with instance variables and methods
+- Solved problems demonstrating encapsulation and object instantiation principles
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
+
+---
+
+### 📅 01-Jan-2025 (Wednesday)
+
+**Constructors, Access Modifiers & Inheritance**
+- Implemented various types of constructors (default, parameterized, copy constructors)
+- Explored access modifiers (public, private, protected, default) and their impact on encapsulation
+- Mastered inheritance concepts including single and multilevel inheritance
+- Solved problems demonstrating constructor chaining and access control mechanisms
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor-and-access-modifier)
+
+---
+
+### 📅 02-Jan-2025 (Thursday)
+
+**Keywords, instanceof Operator & Advanced String Handling**
+- Explored Java keywords including `this`, `super`, `static`, and `final`
+- Practiced the `instanceof` operator for runtime type checking
+- Solved problems combining OOP concepts with string manipulation
+- Completed scenario-based challenges integrating multiple OOP principles
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keyword-and-instance-of-object)
+
+---
+
+### 📅 03-Jan-2025 (Friday)
+
+**Object Modeling & UML Diagrams**
+- Learned to design and draw Class diagrams representing object relationships
+- Created Object diagrams to visualize instance-level interactions
+- Developed Sequence diagrams to illustrate method calls and object lifecycles
+- Solved object modeling problems applying design thinking and architectural patterns
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modelling)
+
+---
+
+## 🎯 Key Learning Outcomes
+
+✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
+
+✅ **Core Java Mastery** – Built a solid foundation in Java fundamentals including data types, operators, control structures, arrays, and strings
+
+✅ **Object-Oriented Design** – Gained hands-on experience with OOP principles including encapsulation, inheritance, polymorphism, and abstraction
+
+✅ **Problem-Solving Excellence** – Enhanced algorithmic thinking and logical reasoning through diverse coding challenges
+
+✅ **Professional Development Practices** – Maintained a clean, well-structured, and professionally documented repository with consistent commit history
+
+✅ **Real-World Application** – Applied programming concepts to scenario-based problems simulating industry-level challenges
+
+---
 
 
+## 🔗 Quick Navigation
 
+- [Core Java Practice](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
+- [OOPs Practice](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice)
 
+---
 
-
+**Last Updated**: January 3, 2025
