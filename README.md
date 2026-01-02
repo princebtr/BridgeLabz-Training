@@ -42,7 +42,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ## 🗓 Week 1: Git, GitHub & Core Java Fundamentals
 
-### 📅 16-Dec-2024 (Monday)
+### 📅 16-Dec-2025 (Tuesday)
 
 **Version Control & Problem Solving Foundations**
 - Successfully set up GitHub repository and integrated it with VS Code for streamlined development
@@ -54,7 +54,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 17-Dec-2024 (Tuesday)
+### 📅 17-Dec-2025 (Wednesday)
 
 **Git Workflow Mastery & Programming Elements**
 - Deepened understanding of Git Bash commands and complete version control workflow
@@ -66,7 +66,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 18-Dec-2024 (Wednesday)
+### 📅 18-Dec-2025 (Thursday)
 
 **Repository Architecture & Advanced Problem Solving**
 - Designed and implemented organized repository structure with Level 1, Level 2, and Control Flow directories
@@ -78,7 +78,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 19-Dec-2024 (Thursday)
+### 📅 19-Dec-2025 (Friday)
 
 **Control Flow Statements Implementation**
 - Mastered Control Flow Statements in Core Java through hands-on practice
@@ -90,7 +90,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 20-Dec-2024 (Friday)
+### 📅 20-Dec-2025 (Saturday)
 
 **Arrays & Multi-Dimensional Data Structures**
 - Explored Arrays and 2D Arrays concepts in Core Java with practical implementations
@@ -104,7 +104,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ## 🗓 Week 2: Advanced Core Java Concepts
 
-### 📅 23-Dec-2024 (Monday)
+### 📅 22-Dec-2025 (Monday)
 
 **String Manipulation & Weekly Review**
 - Mastered String class and its extensive collection of methods in Core Java
@@ -116,7 +116,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 24-Dec-2024 (Tuesday)
+### 📅 23-Dec-2025 (Tuesday)
 
 **Exception Handling & Scenario-Based Problem Solving**
 - Implemented robust String operations and Exception handling mechanisms in Core Java
@@ -127,7 +127,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 25-Dec-2024 (Wednesday)
+### 📅 24-Dec-2025 (Wednesday)
 
 **Methods & Mathematical Functions**
 - Explored method creation, overloading, and parameter passing in Core Java
@@ -138,7 +138,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 27-Dec-2024 (Friday)
+### 📅 26-Dec-2025 (Friday)
 
 **Built-In Functions & Concept Consolidation**
 - Tackled additional problems on Strings and method handling for deeper understanding
@@ -152,7 +152,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ## 🗓 Week 3: Object-Oriented Programming Principles
 
-### 📅 30-Dec-2024 (Monday)
+### 📅 29-Dec-2025 (Monday)
 
 **Advanced String Operations & Scenario Analysis**
 - Solved complex scenario-based questions requiring integrated problem-solving approaches
@@ -163,7 +163,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 31-Dec-2024 (Tuesday)
+### 📅 30-Dec-2024 (Tuesday)
 
 **Introduction to Object-Oriented Programming**
 - Learned fundamental OOP concepts including Classes and Objects
@@ -174,7 +174,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 01-Jan-2025 (Wednesday)
+### 📅 31-Dec-2025 (Wednesday)
 
 **Constructors, Access Modifiers & Inheritance**
 - Implemented various types of constructors (default, parameterized, copy constructors)
@@ -186,7 +186,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 02-Jan-2025 (Thursday)
+### 📅 01-Jan-2026 (Thursday)
 
 **Keywords, instanceof Operator & Advanced String Handling**
 - Explored Java keywords including `this`, `super`, `static`, and `final`
@@ -198,7 +198,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-### 📅 03-Jan-2025 (Friday)
+### 📅 02-Jan-2025 (Friday)
 
 **Object Modeling & UML Diagrams**
 - Learned to design and draw Class diagrams representing object relationships
@@ -231,6 +231,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 - [Core Java Practice](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 - [OOPs Practice](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice)
+- [Scenario-Based Problems](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
 ---
 
