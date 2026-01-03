@@ -210,6 +210,17 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
+### 📅 03-Jan-2025 (Saturday)
+
+**Inheritence & its types with interface*
+- Learned about inheritence and its types with interface 
+- Solved problems based on inheritence and interface
+- Solved few scenerio based questions based on OOPS concept
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritence)
+
+---
+
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
@@ -231,8 +242,8 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 - [Core Java Practice](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 - [OOPs Practice](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice)
-- [Scenario-Based Problems](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenerio-based)
 
 ---
 
 **Last Updated**: January 3, 2025
+
