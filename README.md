@@ -27,6 +27,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 │   │   ├── 💻 class-and-object/
 │   │   ├── 💻 keyword-and-instance-of-object/
 │   │   ├── 💻 object-modelling/
+│   │   ├── 💻 oops-pillers/
 │   │   └── 💻 constructor-and-access-modifier/
 │   │
 │   ├── 📁 leet-code-codebase/
@@ -221,6 +222,17 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
+### 📅 05-Jan-2025 (Monday)
+
+**Encapsulation, Polymorphism, Interface and Abstract Class*
+- Learned about Encapsulation, Polymorphism, Interface and Abstract ClassEncapsulation, Polymorphism, Interface and Abstract Class
+- Solved problems based on Encapsulation, Polymorphism, Interface and Abstract Class
+- Solved few scenerio based questions based on OOPS concept
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritence)
+
+---
+
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
@@ -245,4 +257,4 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-**Last Updated**: January 3, 2025
+**Last Updated**: January 4, 2025
