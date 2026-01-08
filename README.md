@@ -34,6 +34,15 @@ This repository documents the **day-wise progress** of tasks completed during th
 │   │
 │   └── 📁 scenario-based/
 │
+├── 📁 dsa-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │   └── 💻 linkedlist/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   │
+│   └── 📁 scenario-based/
+│
 ├── 📁 reviews/
 │
 └── 📄 README.md
@@ -213,7 +222,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ### 📅 03-Jan-2025 (Saturday)
 
-**Inheritence & its types with interface*
+**Inheritence & its types with interface**
 - Learned about inheritence and its types with interface 
 - Solved problems based on inheritence and interface
 - Solved few scenerio based questions based on OOPS concept
@@ -222,14 +231,48 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
+## 🗓 Week 4: OOPs and DSA Fundamentals
 ### 📅 05-Jan-2025 (Monday)
 
-**Encapsulation, Polymorphism, Interface and Abstract Class*
+**Encapsulation, Polymorphism, Interface and Abstract Class**
 - Learned about Encapsulation, Polymorphism, Interface and Abstract ClassEncapsulation, Polymorphism, Interface and Abstract Class
 - Solved problems based on Encapsulation, Polymorphism, Interface and Abstract Class
 - Solved few scenerio based questions based on OOPS concept
 
-[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritence)
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-pillers)
+
+---
+
+### 📅 06-Jan-2025 (Tuesday)
+
+**Core Java Practice with Scenerio based problems**
+- Solved multiple problems covering Arrays, Strings, Methods, and Exception Handling
+- Practiced writing reusable methods and handling edge cases using exceptions
+- Strengthened overall understanding of Core Java fundamentals through hands-on coding
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
+
+---
+
+### 📅 07-Jan-2025 (Wednesday)
+
+**OOPS practice with Story baseed Scenerios**
+- Solved several story-based problem statements
+- Designed and developed fully working Java programs using all major OOPS concepts
+- Applied Encapsulation, Inheritance, Polymorphism, Abstraction, and Interfaces in real-world scenarios
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
+
+---
+
+### 📅 08-Jan-2025 (Thrusday)
+
+**Encapsulation, Polymorphism, Interface and Abstract Class**
+- Learned about Linked List and its different types `Singly Linked List`,`Doubly Linked List`and`Circular Linked List`
+- Implemented and solved problems based on Linked List operations such as insertion, deletion, and traversal
+- Improved understanding of dynamic data structures and pointer/reference manipulation
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-pillers)
 
 ---
 
@@ -254,7 +297,8 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 - [Core Java Practice](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 - [OOPs Practice](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice)
+- [DSA Practice]()
 
 ---
 
-**Last Updated**: January 4, 2025
+**Last Updated**: January 8, 2025
