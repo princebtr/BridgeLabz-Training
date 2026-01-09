@@ -267,12 +267,22 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ### 📅 08-Jan-2025 (Thrusday)
 
-**Encapsulation, Polymorphism, Interface and Abstract Class**
+**DSA Linkedlist**
 - Learned about Linked List and its different types `Singly Linked List`,`Doubly Linked List`and`Circular Linked List`
 - Implemented and solved problems based on Linked List operations such as insertion, deletion, and traversal
 - Improved understanding of dynamic data structures and pointer/reference manipulation
 
-[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/oops-pillers)
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)
+
+---
+### 📅 09-Jan-2025 (Friday)
+
+**DSA Linkedlist and Scenerio based Problems**
+- Solved several story-based problem statements
+- Designed and developed fully working Java programs using all major OOPS concepts
+- Solved few questions based on the types of Linkedlist
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
 
 ---
 
@@ -297,8 +307,8 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 - [Core Java Practice](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 - [OOPs Practice](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice)
-- [DSA Practice]()
+- [DSA Practice](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice)
 
 ---
 
-**Last Updated**: January 8, 2025
+**Last Updated**: January 9, 2025
