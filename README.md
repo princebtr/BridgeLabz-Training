@@ -50,7 +50,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-## 🗓 Week 1: Git, GitHub & Core Java Fundamentals
+## 🗓  1: Git, GitHub & Core Java Fundamentals
 
 ### 📅 16-Dec-2025 (Tuesday)
 
@@ -116,11 +116,11 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ### 📅 22-Dec-2025 (Monday)
 
-**String Manipulation & Weekly Review**
+**String Manipulation & Module Review**
 - Mastered String class and its extensive collection of methods in Core Java
 - Practiced string operations including concatenation, substring extraction, and pattern matching
 - Solved Level 1, Level 2, and Level 3 problems focused on string manipulation techniques
-- Participated in comprehensive weekly review session with mentor for feedback and improvement
+- Participated in comprehensive module review session with mentor for feedback and improvement
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
@@ -285,6 +285,16 @@ This repository documents the **day-wise progress** of tasks completed during th
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
 
 ---
+## 🗓 Week 4: OOPs practice
+
+### 📅 12-Jan-2025 (Monday)
+
+**Module review session and Scenerio based Problems**
+- Solved several story-based problem statements
+- Designed and developed fully working Java programs using all major OOPS concepts
+- Participated in comprehensive module review session with mentor for feedback and improvement
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
 
 ## 🎯 Key Learning Outcomes
 
