@@ -285,7 +285,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
 
 ---
-## 🗓 Week 4: OOPs practice
+## 🗓 Week 4: OOPs practice & DSA Fundamentals
 
 ### 📅 12-Jan-2025 (Monday)
 
@@ -296,6 +296,23 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
 
+### 📅 13-Jan-2025 (Tuesday)
+
+**Scenerio based Problems & Git flow practice**
+- Solved several story-based problem statements
+- Designed and developed fully working Java programs using all major OOPS concepts
+- Revised the github flow with practicals and implementations
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
+
+### 📅 14-Jan-2025 (Wednesday)
+
+**DSA Fundamentals & Sorting techniques**
+- Learned about different sorting techniques
+- Practiced with few questions on Leet Code
+- Learned and Solved problems based on `Stack`, `Queue` & `Hashmap`
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
@@ -321,4 +338,4 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-**Last Updated**: January 9, 2025
+**Last Updated**: January 1r, 2025
