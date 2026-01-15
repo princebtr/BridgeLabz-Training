@@ -37,6 +37,8 @@ This repository documents the **day-wise progress** of tasks completed during th
 ├── 📁 dsa-practice/
 │   │
 │   ├── 📁 gcr-codebase/
+│   │   ├── 💻 stack-queue-hashmap/
+│   │   ├── 💻 sorting/
 │   │   └── 💻 linkedlist/
 │   │
 │   ├── 📁 leet-code-codebase/
@@ -313,6 +315,15 @@ This repository documents the **day-wise progress** of tasks completed during th
 - Learned and Solved problems based on `Stack`, `Queue` & `Hashmap`
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
+
+### 📅 15-Jan-2025 (Thursday)
+
+**Sorting techniques & Weekly Review**
+- Learned about different sorting techniques
+- Practiced with problems based on different sorting techniques
+- Participated in comprehensive weekly review session with external mentor for feedback and improvement
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/dsa-practice/)
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
@@ -338,4 +349,4 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-**Last Updated**: January 1r, 2025
+**Last Updated**: January 15, 2025
