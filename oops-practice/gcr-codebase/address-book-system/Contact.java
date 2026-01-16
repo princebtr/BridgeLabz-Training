@@ -3,6 +3,7 @@
 package AddressBookSystem;
 
 public class Contact {
+	private int id;
 	private String firstName;
 	private String lastName;
 	private String address;
@@ -11,6 +12,7 @@ public class Contact {
 	private String zip;
 	private String phoneNumber;
 	private String email;
+	private static int count = 0;
 	
 	public Contact(String firstName, String lastName, String address, String city, String state, String zip, String phoneNumber, String email) {
 		this.firstName = firstName;
@@ -21,6 +23,7 @@ public class Contact {
 		this.zip = zip;
 		this.phoneNumber = phoneNumber;
 		this.email = email;
+		this.id = count++;
 	}
 	
 	
@@ -48,6 +51,9 @@ public class Contact {
 	}
 	public String getEmail() {
 		return email;
+	}
+	public int getId() {
+		return id;
 	}
 	
 //	Setters

@@ -34,6 +34,13 @@ public class Main {
 		
 		ContactServices cs = new ContactServices();
 		cs.addContacts(c);
+		
+		cs.editContact();
+		
+		System.out.println("Enter First name");
+		String fn = input.next();
+		cs.searchContact(fn);
+
 	}
 
 }
