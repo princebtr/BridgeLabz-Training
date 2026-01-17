@@ -23,7 +23,7 @@ public class Contact {
 		this.zip = zip;
 		this.phoneNumber = phoneNumber;
 		this.email = email;
-		this.id = count++;
+		this.id = ++count;
 	}
 	
 	
