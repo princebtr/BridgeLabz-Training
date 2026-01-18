@@ -39,6 +39,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 │   │
 │   ├── 📁 gcr-codebase/
 │   │   ├── 💻 stack-queue-hashmap/
+│   │   ├── 💻 search-strings-filereader/
 │   │   ├── 💻 sorting/
 │   │   └── 💻 linkedlist/
 │   │
@@ -334,13 +335,27 @@ This repository documents the **day-wise progress** of tasks completed during th
 - Worked on Address book system project till use case 3
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/address-book-system)
+
+### 📅 17-Jan-2025 (Saturday)
+
+**Searching Algorithms & OOPS mini project**
+- Learned about different searching algorithm `Linear Search` and `Binary Search`
+- Practiced with problems based on different `searching algorithm`, `StringBuilder`, `StringBuffer` and `FileReader`
+- Worked on Address book system project till use case 5
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/search-strings-filereader)
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
+
 ✅ **Core Java Mastery** – Built a solid foundation in Java fundamentals including data types, operators, control structures, arrays, and strings
+
 ✅ **Object-Oriented Design** – Gained hands-on experience with OOP principles including encapsulation, inheritance, polymorphism, and abstraction
+
 ✅ **Problem-Solving Excellence** – Enhanced algorithmic thinking and logical reasoning through diverse coding challenges
+
 ✅ **Professional Development Practices** – Maintained a clean, well-structured, and professionally documented repository with consistent commit history
+
 ✅ **Real-World Application** – Applied programming concepts to scenario-based problems simulating industry-level challenges
 
 ---
@@ -354,4 +369,4 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-**Last Updated**: January 16, 2025
+**Last Updated**: January 17, 2025
