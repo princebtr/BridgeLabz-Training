@@ -58,6 +58,4 @@ class TaskCircularList {
         } while (temp != head);
     }
 }
- {
-    
-}
+
