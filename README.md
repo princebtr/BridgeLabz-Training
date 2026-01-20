@@ -39,9 +39,19 @@ This repository documents the **day-wise progress** of tasks completed during th
 │   │
 │   ├── 📁 gcr-codebase/
 │   │   ├── 💻 stack-queue-hashmap/
+│   │   ├── 💻 runtime-analysis/
 │   │   ├── 💻 search-strings-filereader/
 │   │   ├── 💻 sorting/
 │   │   └── 💻 linkedlist/
+│   │
+│   ├── 📁 leet-code-codebase/
+│   │
+│   └── 📁 scenario-based/
+│
+├── 📁 collections-practice/
+│   │
+│   ├── 📁 gcr-codebase/
+│   │   └── 💻 generics/
 │   │
 │   ├── 📁 leet-code-codebase/
 │   │
@@ -344,6 +354,26 @@ This repository documents the **day-wise progress** of tasks completed during th
 - Worked on Address book system project till use case 5
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/search-strings-filereader)
+
+## 🗓 Week 3: DSA Practice & Collections Fundamentals
+
+### 📅 19-Jan-2026 (Monday)
+
+**Runtime Analysis & Scenario based DSA problems**
+- Solved complex scenario-based questions requiring DSA problem-solving approaches
+- Deepened knowledge of Runtime Analysis
+- Strengthened analytical and logical reasoning skills through challenging problems
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis)
+
+### 📅 20-Jan-2026 (Tuesday)
+
+**Generics fundamentals & Scenario based DSA problems**
+- Solved complex scenario-based questions requiring DSA problem-solving approaches
+- Deepened knowledge of Generics in Collection
+- Strengthened analytical and logical reasoning skills through challenging problems
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based)
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
@@ -366,7 +396,8 @@ This repository documents the **day-wise progress** of tasks completed during th
 - [Core Java Practice](https://github.com/princebtr/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 - [OOPs Practice](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice)
 - [DSA Practice](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice)
+- [DSA Practice](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/collections-practice)
 
 ---
 
-**Last Updated**: January 17, 2025
+**Last Updated**: January 20, 2025
