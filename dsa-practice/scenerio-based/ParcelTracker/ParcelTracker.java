@@ -1,13 +1,4 @@
-// Node representing a delivery stage
-class StageNode {
-    String stage;
-    StageNode next;
-
-    StageNode(String stage) {
-        this.stage = stage;
-        this.next = null;
-    }
-}
+package ParcelTracker;
 
 // Singly Linked List for parcel tracking
 class ParcelTracker {
@@ -62,22 +53,5 @@ class ParcelTracker {
             temp = temp.next;
         }
         System.out.println("END");
-    }
-}
-
-// Main class
-public class ParcelTrackerMain {
-    public static void main(String[] args) {
-
-        ParcelTracker tracker = new ParcelTracker();
-
-        tracker.addStage("Packed");
-        tracker.addStage("Shipped");
-        tracker.addStage("In Transit");
-        tracker.addStage("Delivered");
-
-        tracker.addCheckpoint("Shipped", "Customs Check");
-
-        tracker.trackParcel();
     }
 }

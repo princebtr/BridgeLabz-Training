@@ -1,12 +1,6 @@
+package CinemaTime;
 import java.util.ArrayList;
 import java.util.List;
-
-// Custom Exception for invalid time format
-class InvalidTimeFormatException extends Exception {
-    public InvalidTimeFormatException(String message) {
-        super(message);
-    }
-}
 
 // Main manager class
 class CinemaTime {
@@ -86,27 +80,5 @@ class CinemaTime {
         int minute = Integer.parseInt(parts[1]);
 
         return hour >= 0 && hour <= 23 && minute >= 0 && minute <= 59;
-    }
-}
-
-// Main class
-public class CinemaTimeMain {
-    public static void main(String[] args) {
-
-        CinemaTime cinema = new CinemaTime();
-
-        try {
-            cinema.addMovie("Inception", "18:30");
-            cinema.addMovie("Interstellar", "21:00");
-            cinema.addMovie("Avatar", "25:99"); // invalid time
-        } catch (InvalidTimeFormatException e) {
-            System.out.println(e.getMessage());
-        }
-
-        cinema.displayAllMovies();
-
-        cinema.searchMovie("Inter");
-
-        cinema.generateReport();
     }
 }
