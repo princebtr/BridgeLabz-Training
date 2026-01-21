@@ -64,7 +64,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-## 🗓  1: Git, GitHub & Core Java Fundamentals
+## 🗓  Week 1: Git, GitHub & Core Java Fundamentals
 
 ### 📅 16-Dec-2025 (Tuesday)
 
@@ -299,7 +299,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/oops-practice/oops-practice/scenerio-based)
 
 ---
-## 🗓 Week 4: OOPs practice & DSA Fundamentals
+## 🗓 Week 5: OOPs practice & DSA Fundamentals
 
 ### 📅 12-Jan-2025 (Monday)
 
@@ -355,7 +355,7 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/search-strings-filereader)
 
-## 🗓 Week 3: DSA Practice & Collections Fundamentals
+## 🗓 Week 6: DSA Practice & Collections Fundamentals
 
 ### 📅 19-Jan-2026 (Monday)
 
@@ -374,6 +374,15 @@ This repository documents the **day-wise progress** of tasks completed during th
 - Strengthened analytical and logical reasoning skills through challenging problems
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenerio-based)
+
+### 📅 21-Jan-2026 (Wednesday)
+
+**Generics based problems**
+- Solved complex scenario-based questions requiring Generics problem-solving approaches
+- Deepened knowledge of Generics in Collection
+- Improved understanding of `collections` and `exceptions`
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
@@ -400,4 +409,4 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-**Last Updated**: January 20, 2025
+**Last Updated**: January 21, 2025
