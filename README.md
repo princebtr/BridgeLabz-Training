@@ -51,6 +51,9 @@ This repository documents the **day-wise progress** of tasks completed during th
 ├── 📁 collections-practice/
 │   │
 │   ├── 📁 gcr-codebase/
+│   │   ├── 💻 collections/
+│   │   ├── 💻 exceptions/
+│   │   ├── 💻 java-streams/
 │   │   └── 💻 generics/
 │   │
 │   ├── 📁 leet-code-codebase/
@@ -383,6 +386,34 @@ This repository documents the **day-wise progress** of tasks completed during th
 - Improved understanding of `collections` and `exceptions`
 
 [📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
+
+### 📅 22-Jan-2026 (Thursday)
+
+**Collections & Scenerio based problem**
+- Solved complex scenario-based questions requiring collections problem-solving approaches
+- Solved problems based on Collection
+- Improved understanding of `collections`
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+
+### 📅 23-Jan-2026 (Friday)
+
+**Java streams & Scenerio based problem**
+- Solved complex scenario-based questions requiring collections problem-solving approaches
+- Solved problems based on java streams
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+
+## 🗓 Week 7: Collections
+
+### 📅 27-Jan-2025 (Tuesday)
+
+**Exception handling and Scenerio based Problems**
+- Solved several story-based problem statements
+- Deepened knowledge of `Exception handling`
+- Solved complex problems based on Exceptions
+
+[📂 View Solutions](https://github.com/princebtr/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)
 ## 🎯 Key Learning Outcomes
 
 ✅ **Version Control Proficiency** – Developed comprehensive understanding of Git and GitHub workflows with branch-based development strategies
@@ -409,4 +440,4 @@ This repository documents the **day-wise progress** of tasks completed during th
 
 ---
 
-**Last Updated**: January 21, 2025
+**Last Updated**: January 27, 2025
